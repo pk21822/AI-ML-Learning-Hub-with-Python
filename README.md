@@ -42,7 +42,7 @@
 
 **Prince**  
 
-ML Engineer | Backend Experience | AWS | AI Enthusiast  
+DS/ML Engineer | Backend Experience | AWS | AI Enthusiast  
 
 Passionate about learning, building, and sharing knowledge that helps others grow in tech.
 
