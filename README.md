@@ -1,6 +1,6 @@
 🚀 AI / ML Learning Hub with Python
 
-"This repository helps you learn Python and build a strong foundation in AI and ML through hands-on projects. It is ideal for students, beginners starting a tech career, and professionals looking to switch domains or strengthen their skills with practical, real-world experience, guided examples, and industry-relevant concept."
+"This repository helps you learn Python and build a strong foundation in AI and ML through hands-on projects. It is ideal for students, beginners starting a tech career, and professionals looking to switch domains or strengthen their skills with practical, real-world experience, guided examples, and industry-relevant concepts."
 
 # 📂 Repository Structure
 
