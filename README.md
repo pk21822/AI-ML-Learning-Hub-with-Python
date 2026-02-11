@@ -7,9 +7,8 @@
 📁 Python_CheatSheet
 
      ├── 📁 Beginner
-     │    ├── Food_Delivery_Data_Exploration_and_Analysis_1.ipynb
-     │    ├── Hand-Notes.pdf
-     │    └── Detailed-Notes.pdf
+     │    ├── Beginner-1.pdf
+     │    └── Beginner-1.pdf
      │
      ├── 📁 Intermediate
      │    ├── Intermediate-1.pdf
@@ -26,17 +25,35 @@
      ├── 📁 Class-1
      │    ├── Food_Delivery_Data_Exploration_and_Analysis_1.ipynb
      │    ├── Hand-Notes.pdf
-     │    └── Detailed-Notes.pdf
+     │    └── PreReads-Food Delivery Data Exploration and analysis 1.pdf
      │
      ├── 📁 Class-2
+     │    ├── Detailed-Notes.ipynb
      │    ├── Food_Delivery_Data_Exploration_and_Analysis_2.ipynb
      │    ├── Hand-Notes.pdf
-     │    └── Detailed-Notes.pdf
+     │    └── PreReads-Food Delivery Data Exploration and analysis 2.pdf
      │
      └── 📁 Class-3
           ├── Food_Delivery_Data_Exploration_and_Analysis_3.ipynb
-          ├── Hand-Notes.pdf
-          └── Detailed-Notes.pdf
+          ├── Hand-Notes-Numpy_conclusion.pdf
+          └── Pre-Read_ Food Delivery Data Exploration and analysis 3.pdf
+📁 Pandas
+
+     ├── 📁 Class-1
+     │    ├── Food_Delivery_Data_Exploration_and_Analysis_1.ipynb
+     │    ├── Hand-Notes.pdf
+     │    └── PreReads-Food Delivery Data Exploration and analysis 1.pdf
+     │
+     ├── 📁 Class-2
+     │    ├── Detailed-Notes.ipynb
+     │    ├── Food_Delivery_Data_Exploration_and_Analysis_2.ipynb
+     │    ├── Hand-Notes.pdf
+     │    └── PreReads-Food Delivery Data Exploration and analysis 2.pdf
+     │
+     └── 📁 Class-3
+          ├── Food_Delivery_Data_Exploration_and_Analysis_3.ipynb
+          ├── Hand-Notes-Numpy_conclusion.pdf
+          └── Pre-Read_ Food Delivery Data Exploration and analysis 3.pdf
 
 ## 👨‍💻 Author
 
@@ -62,11 +79,11 @@ Your support motivates continuous improvement!
 
 ## 🚀 Future Additions (Stay Tuned)
 
-- 👉 Hands-on Projects  
-- 👉 Interview Preparation  
-- 👉 ML Case Studies  
-- 👉 Python Practice Sets  
-- 👉 Deployment Guides  
+-  Hands-on Projects  
+-  Interview Preparation  
+-  ML Case Studies  
+-  Python Practice Sets  
+-  Deployment Guides  
 
 > 📌 This repository will keep evolving with more valuable content.
 
